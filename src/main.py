@@ -7,5 +7,6 @@ if __name__ == "__main__":
 def foo():
     pass
 
+
 def func():
-    ...
+    pass

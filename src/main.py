@@ -7,6 +7,5 @@ if __name__ == "__main__":
 def bar():
     pass
 
-
 def func():
     pass

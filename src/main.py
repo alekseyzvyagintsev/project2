@@ -4,9 +4,9 @@ if __name__ == "__main__":
     text_revers("Салам пополам!")
 
 
-def bar():
+def foo():
     pass
 
 
 def func():
-    pass
+    ...
